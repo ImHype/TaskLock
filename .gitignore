@@ -6,11 +6,8 @@ example/foxman.dev.haitaowap.js
 *.vscode*
 .DS_Store
 
-
 # target
 **dist**
-src/**/*.js.map
-src/**/*.js
 
 # others
 example/mock
