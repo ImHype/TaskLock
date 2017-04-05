@@ -1,0 +1,11 @@
+{
+  "name": "task-lock",
+  "version": "1.0.0",
+  "description": "TaskLock 本质是一条队列，用于限制一条通道内同时允许多少次异步操作",
+  "main": "./src/TaskLock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "君羽",
+  "license": "MIT"
+}
